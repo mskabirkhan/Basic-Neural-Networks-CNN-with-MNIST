@@ -8,3 +8,7 @@ In the .ipynb file you will see step by step process with comments how to develo
 
 <a href="https://www.youtube.com/watch?v=iQdWX1327XQ" target="_blank"><img src="" 
 alt="Watch more on Youtube about MNIST" width="240" height="180" border="10" /></a>
+
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/iQdWX1327XQ/0.jpg)](https://www.youtube.com/watch?v=iQdWX1327XQ)
+
