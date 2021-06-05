@@ -6,6 +6,6 @@ In the .ipynb file you will see step by step process with comments how to develo
 
 [Click to learn more about MNIST in here](http://yann.lecun.com/exdb/mnist/) or [click here to learn from Wikipedia](https://en.wikipedia.org/wiki/MNIST_database)
 
-
+Watch about MNIST on YouTube
 [![Watch more on Youtube about MNIST](https://img.youtube.com/vi/iQdWX1327XQ/0.jpg)](https://www.youtube.com/watch?v=iQdWX1327XQ)
 
